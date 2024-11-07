@@ -1,3 +1,3 @@
-- 👋 Hi, I’m sakshi jagtap
-- 👀 I’m interested in web development and deveops 
+- 👋 Hi, I’m sakshi ganesh jagtap
+- 👀 I’m interested in web development and DevOps 
 - 🌱 I’m currently learning MCA 
